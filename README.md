@@ -1,16 +1,11 @@
-# music_player_ui
+**Packages we are using:**
 
-A new Flutter project.
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+- google_fonts: [link](https://pub.dev/packages/google_fonts)
 
-## Getting Started
+## [Watch it on YouTube](https://youtu.be/lHsnOr2vcdM)
 
-This project is a starting point for a Flutter application.
+◖ Don't forget to subscribe on channel and enable bell ◗
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Music Player UI
+![Screenshot_1](https://user-images.githubusercontent.com/89051381/176566873-84c03414-4d8e-4a88-83e1-15dbb0152254.jpg)
